@@ -1,0 +1,17 @@
+# Dataset (~9 GB compressed) and trained weights
+/GOPRO_Large/
+/GOPRO_Large.zip
+/train/
+/test/
+/checkpoints_two_experiments/
+*.pt
+*.pth
+*.ckpt
+
+# Notebook, Python and OS artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
